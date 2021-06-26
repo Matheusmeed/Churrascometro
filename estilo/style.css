@@ -52,8 +52,9 @@ button {
 }
 
 button:hover {
-    animation-name: changeColor;
-    animation-duration: 0.5s;
+    color: #d4a0a0;
+    background-color: black;
+    transition: 1s;
 }
 
 p {
@@ -65,12 +66,6 @@ p {
     padding: 7px;
     border-radius: 30px;
     border: none;
-}
-
-@keyframes changeColor{
-    from {background-color: #d4a0a0; color: black;}
-    to {background-color: black; color: #d4a0a0;}
-
 }
 
 @media screen and (max-width: 600px) {
