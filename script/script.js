@@ -1,4 +1,6 @@
 function calcular() {
+    let assinatura = document.getElementById('assinatura')
+    assinatura.style.display = 'none'
 
     let inputAdultos = document.getElementById('adultos')
     let inputCriancas = document.getElementById('criancas')
