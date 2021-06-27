@@ -1,13 +1,13 @@
-<h1 style="text-align: center">CHURRASCÔMETRO</h1>
-<p style="text-align: center">Site que serve para ajudar as pessoas que querem realizar um churrasco, mas não fazem ideia de quantos quilogramas de carne, latas de cerveja e litros de refrigerante serão necessários.</p>
+<div align=”center”><h1>CHURRASCÔMETRO:meat_on_bone:</h1><p>Site que serve para ajudar as pessoas que querem realizar um churrasco, mas não fazem ideia de quantos quilogramas de carne, latas de cerveja e litros de refrigerante serão necessários.</p></div>
 
-## 📷 Demonstração
+
+## :camera_flash: Demonstração
 <img src='./img/churrascometro.gif'></img>
 
-## 💻 Teste o Site
+## :computer: Teste o Site
 <a href="https://churrascometromeed.netlify.app/">Clique aqui para testar o site</a>
 
-## Tecnologias
+## :rocket: Tecnologias
 
 As seguintes ferramentes foram utilizadas na construção desse projeto:
 
@@ -16,4 +16,4 @@ As seguintes ferramentes foram utilizadas na construção desse projeto:
 - JavaScript
 
 <br>
-    Made by Matheus Medeiros da Silva
+    Made by Matheus Medeiros da Silva :man_technologist:
