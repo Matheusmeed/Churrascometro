@@ -4,9 +4,6 @@
 ## :camera_flash: Demonstração
 <img src='./img/churrascometro.gif'></img>
 
-## :computer: Teste o Site
-<a href="https://churrascometromeed.netlify.app/">Clique aqui para testar o site</a>
-
 ## :rocket: Tecnologias
 
 As seguintes ferramentes foram utilizadas na construção desse projeto:
